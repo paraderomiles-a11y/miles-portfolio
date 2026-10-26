@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Miles Paradero — Personal Portfolio
 
-## Getting Started
+A personal portfolio website showcasing my background, education, technical skills, projects, certifications, achievements, and experience as an Information Technology student at Davao del Norte State College.
 
-First, run the development server:
+## About the Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This portfolio was developed as part of an academic assignment to present my professional profile and IT-related skills in an accessible, responsive website.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Personal profile and career objective
+- Basic information and career interests
+- Educational background and academic achievements
+- Technical and networking skills
+- Projects and GitHub profile
+- Certifications and achievements
+- Work experience
+- Contact information and professional links
+- Responsive layout for desktop, tablet, and mobile screens
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies Used
 
-## Learn More
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
 
-To learn more about Next.js, take a look at the following resources:
+## Run Locally
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Prerequisites
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Install Node.js and npm.
 
-## Deploy on Vercel
+### Installation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone the repository:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   git clone https://github.com/paraderomiles-a11y/miles-portfolio.git
+   ```
+
+2. Open the project directory:
+
+   ```bash
+   cd miles-portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Author
+
+**Miles Bulanda Paradero**
+
+- GitHub: [@paraderomiles-a11y](https://github.com/paraderomiles-a11y)
+- LinkedIn: [Miles Paradero](https://www.linkedin.com/in/miles-paradero-ab904a447/)
+- Email: milesparadero@gmail.com
